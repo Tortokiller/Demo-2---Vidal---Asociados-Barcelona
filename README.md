@@ -25,9 +25,9 @@ This is a complete landing page for a law firm, designed to feel structured and 
 project/
 ├── index.html
 ├── css/
-│ └── styles.css
+│    └── styles.css
 └── js/
-└── script.js
+    └── script.js
 
 
 ---
